@@ -7,18 +7,18 @@ public class SwitchStatementDemo {
 		// A Switch Statement is simply just another way to write if else statements.
 		// The following two blocks of code are logically the same.
 		
-		{
-			int x = new Random().nextInt(3);
-			if(x == 0) { 
-				System.out.println("0");
-			} else if(x == 1) {
-				System.out.println("1");
-			} else if(x == 2) {
-				System.out.println("2");
-			} else {
-				System.out.println("Something went wrong :(");
-			}
-		}
+//		{
+//			int x = new Random().nextInt(3);
+//			if(x == 0) { 
+//				System.out.println("0");
+//			} else if(x == 1) {
+//				System.out.println("1");
+//			} else if(x == 2) {
+//				System.out.println("2");
+//			} else {
+//				System.out.println("Something went wrong :(");
+//			}
+//		}
 		
 		{
 			/*
